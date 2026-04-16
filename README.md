@@ -79,9 +79,9 @@ Topic Input → Content Generation → Persona Segmentation → A/B Assignment �
 ## ▶️ Instructions to Run Locally
 
 > The app can run fully in mock mode without API keys.
-If you want to use real APIs, add the following to your .env file:
-OPENAI_API_KEY=your_key_here
-HUBSPOT_ACCESS_TOKEN=your_token_here
+> If you want to use real APIs, add the following to your .env file:
+> OPENAI_API_KEY=your_key_here
+> HUBSPOT_ACCESS_TOKEN=your_token_here
 
 ```bash
 # 1. Clone the repository
